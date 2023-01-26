@@ -11,10 +11,10 @@ pkgname=(
   "${pkgbase}-dtb-amlogic"
   "${pkgbase}-dtb-rockchip"
 )
-pkgver=6.0.15
+pkgver=6.1.8
 pkgrel=1
 arch=('aarch64')
-url="https://github.com/unifreq/linux-6.0.y"
+url="https://github.com/unifreq/linux-6.1.y"
 license=('GPL2')
 options=(!strip)
 source=(
